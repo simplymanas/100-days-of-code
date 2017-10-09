@@ -1,8 +1,6 @@
-# Primary Resources on the #100DaysOfCode
-
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
-## Helpful Articles
+## Helpful Articles used for 100 days of coding
 
 [REST using spring](https://dzone.com/articles/creating-a-rest-api-with-java-and-spring)
 
