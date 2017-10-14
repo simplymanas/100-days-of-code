@@ -4,6 +4,8 @@ The log of my #100DaysOfCode challenge. Started on [Oct 9, Monday, 2017].
 
 ## Log
 
+Developing a REST API for Order Management System using Spring and JAVA 8 in Intelij IDEA community edition
+
 ### R1D1 
 Started a REST API using spring
 
@@ -15,4 +17,10 @@ persitence layer
 
 ### R1D4
 Presentation layer
+
+### R1D5
+persitence layer
+
+### R1D6
+Unit Test
 
