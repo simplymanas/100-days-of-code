@@ -24,3 +24,5 @@ persitence layer
 ### R1D6
 Unit Test
 
+### R1D7
+Deployment
