@@ -29,3 +29,21 @@ Deployment
 
 ### R1D8
 Cucumber and gherkin usage
+
+### R1D9
+Cucumber and gherkin usage
+
+### R1D10
+JMS in Java
+
+### R1D11
+JMS in java
+
+### R1D12
+Load Test
+
+### R1D13
+Algorithm in JAVA
+
+### R1D14
+Algorithm in JAVA
