@@ -53,3 +53,15 @@ Algorithm in JAVA
 
 ### R1D16
 Algorithm in JAVA
+
+### R1D17
+Algorithm in JAVA
+
+### R1D18
+Algorithm in JAVA
+
+### R1D19
+Algorithm in JAVA
+
+### R1D20
+Algorithm in JAVA
