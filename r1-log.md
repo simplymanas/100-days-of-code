@@ -65,3 +65,18 @@ Algorithm in JAVA
 
 ### R1D20
 Algorithm in JAVA
+
+### R1D21
+JMS in JAVA
+
+### R1D22
+JMS in JAVA
+
+### R1D23
+JMS in JAVA
+
+### R1D24
+JMS in JAVA
+
+### R1D25
+JMS in JAVA
